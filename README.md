@@ -13,12 +13,14 @@ Download
 ### [Click here to download](https://mega.nz/#!1kIjhKbL!xDG9Z5brjG7ZM7xbDYGruYMnXpHqgE9wackLevTTjuk)
 
 ### Install the Modeler:
+---
   - Open your Eclipse environment and select Help > Install New Software….
   - Click on Add… and fill the fields (Name: " ", Location: "Click on "Archive…" button and retrieve the .zip file downloaded from repo).
   - Click on Ok button.
   - Click on Next button and finish the wizard.
 
 ### Use the Modeler:
+---
   - Open your Eclipse environment and select File > New > Modeling Project….
   - Fill the project name and click finish.
   - Right click on your modeling project that you created in previous step.
@@ -29,7 +31,8 @@ Download
   - Right click on your modeling project and select "Viewpoints Selection" then select avaliable viewpoint(In this case "Endpoints").
   - Done, now you can use the already created diagram editors to create your domain environment with the tools avaliable.
   
-### Basic Controls
+### Basic Controls: 
+---
 In "Full System Diagram": 
 
  To create nodes:
