@@ -5,7 +5,12 @@ Domain specific language tool that generated in Sirius for web services and clie
 ![](/sources/sample.gif)
 
 ## How to Install and Use the Modeler
+
 First, you must download the .zip file on your computer then follow the instructions below.
+
+Download
+--------
+### [Click here to download](https://mega.nz/#!1kIjhKbL!xDG9Z5brjG7ZM7xbDYGruYMnXpHqgE9wackLevTTjuk)
 
 ### Install the Modeler:
   - Open your Eclipse environment and select Help > Install New Software….
