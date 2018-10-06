@@ -2,7 +2,7 @@
 
 Domain specific language tool that generated in Sirius for web services and clients relations in Eclipse environment. Domain is related with web service and client. Aim is to show the interactive relations between web services and clients. The most important purpose is to demonstrate which clients and web services will be affected when any change occurs.
 
-![Imgur](/sources/sample.gif)
+![](/sources/sample.gif)
 
 ## How to Install and Use the Modeler
 First, you must download the .zip file on your computer then follow the instructions below.
