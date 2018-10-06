@@ -27,10 +27,10 @@ First, you must download the .zip file on your computer then follow the instruct
 ### Basic Controls
 In "Full System Diagram": 
 
-  To create nodes:
-    - Simply Drag&Drop or select the desired tool and click on the diagram.
-    - Every tool have unique wizard to create node.
-  To delete nodes:
-    - Just click on the node you want to delete and hit "Delete" button on keyboard.
+To create nodes:
+  - Simply Drag&Drop or select the desired tool and click on the diagram.
+  - Every tool have unique wizard to create node.
+To delete nodes:
+  - Just click on the node you want to delete and hit "Delete" button on keyboard.
     
 *a project by Utku Demir & [Ali İhsan Basar](https://github.com/Aliihsanbasar).*
