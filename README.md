@@ -43,4 +43,4 @@ In "Full System Diagram":
   - Just click on the node you want to delete and hit "Delete" button on keyboard.
     
 
-*a project by [Utku Demir](https://github.com/Scheback) & [Ali İhsan Basar](https://github.com/Aliihsanbasar).*
+*a project by [Utku Demir](https://github.com/Utku-Demir) & [Ali İhsan Basar](https://github.com/Aliihsanbasar).*
