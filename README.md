@@ -49,10 +49,8 @@ In "Full System Diagram":
 
 
 ## Contributors
----
 GENWS2C project is made by ;
-
-| [<img src="https://avatars2.githubusercontent.com/u/2052654?s=460&v=4" width="100px;"/><br /><sub><b>Utku Demir</b></sub>](https://github.com/Utku-Demir)<br />[💻](https://github.com/Utku-Demir/GENWS2C/commits?author=Utku-Demir "Code")[📖](https://github.com/Utku-Demir/GENWS2C/blob/master/README.md "Documentation") [💡](#ideas-Utku-Demir "Ideas, Planning, & Feedback") [⚠️](https://github.com/Utku-Demir/GENWS2C/commits?author=Utku-Demir "Test")️ | [<img src="https://avatars3.githubusercontent.com/u/39854594?s=460&v=4" width="100px;"/><br /><sub><b>Ali İhsan Basar</b></sub>](https://github.com/Aliihsanbasar)<br />[💻](https://github.com/Utku-Demir/GENWS2C/commits?author=Aliihsanbasar "Code") [📖](https://github.com/Utku-Demir/GENWS2C/commits?author=Aliihsanbasar "Documentation")[🐛](https://github.com/Utku-Demir/GENWS2C/issues?q=author%3Aeonwhite "Bug reports")  [💡](#ideas-Aliihsanbasar "Ideas, Planning, & Feedback")|
+|[<img src="https://avatars2.githubusercontent.com/u/2052654?s=460&v=4" width="100px;"/><br /><sub><b>Utku Demir</b></sub>](https://github.com/Utku-Demir)<br />[💻](https://github.com/Utku-Demir/GENWS2C/commits?author=Utku-Demir "Code")[📖](https://github.com/Utku-Demir/GENWS2C/blob/master/README.md "Documentation")[💡](#ideas-Utku-Demir "Ideas, Planning, & Feedback")[⚠️](https://github.com/Utku-Demir/GENWS2C/commits?author=Utku-Demir "Test")️ | [<img src="https://avatars3.githubusercontent.com/u/39854594?s=460&v=4" width="100px;"/><br /><sub><b>Ali İhsan Basar</b></sub>](https://github.com/Aliihsanbasar)<br />[💻](https://github.com/Utku-Demir/GENWS2C/commits?author=Aliihsanbasar "Code") [📖](https://github.com/Utku-Demir/GENWS2C/commits?author=Aliihsanbasar "Documentation")[💡](#ideas-Aliihsanbasar "Ideas, Planning, & Feedback")[🐛](https://github.com/Utku-Demir/GENWS2C/issues?q=author%3Aeonwhite "Bug reports")|
 | :---: | :---: |
 
 
