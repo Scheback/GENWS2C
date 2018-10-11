@@ -1,3 +1,5 @@
+[![license](https://badgen.now.sh/badge/license/MIT)](./LICENSE)
+
 # GENWS2C: Domain Specific Language Tool 
 
 Domain specific language tool that generated in Sirius for web services and clients relations in Eclipse environment. Domain is related with web service and client. Aim is to show the interactive relations between web services and clients. The most important purpose is to demonstrate which clients and web services will be affected when any change occurs.
@@ -43,4 +45,14 @@ In "Full System Diagram":
   - Just click on the node you want to delete and hit "Delete" button on keyboard.
     
 
-*a project by [Utku Demir](https://github.com/Utku-Demir) & [Ali İhsan Basar](https://github.com/Aliihsanbasar).*
+
+
+
+## Contributors
+---
+GENWS2C project is made by ;
+
+| [<img src="https://avatars2.githubusercontent.com/u/2052654?s=460&v=4" width="100px;"/><br /><sub><b>Utku Demir</b></sub>](https://github.com/Utku-Demir)<br />[💻](https://github.com/Utku-Demir/GENWS2C/commits?author=Utku-Demir "Code")[📖](https://github.com/Utku-Demir/GENWS2C/blob/master/README.md "Documentation") [💡](#ideas-Utku-Demir "Ideas, Planning, & Feedback") [⚠️](https://github.com/Utku-Demir/GENWS2C/commits?author=Utku-Demir "Test")️ | [<img src="https://avatars3.githubusercontent.com/u/39854594?s=460&v=4" width="100px;"/><br /><sub><b>Ali İhsan Basar</b></sub>](https://github.com/Aliihsanbasar)<br />[💻](https://github.com/Utku-Demir/GENWS2C/commits?author=Aliihsanbasar "Code") [📖](https://github.com/Utku-Demir/GENWS2C/commits?author=Aliihsanbasar "Documentation")[🐛](https://github.com/Utku-Demir/GENWS2C/issues?q=author%3Aeonwhite "Bug reports")  [💡](#ideas-Aliihsanbasar "Ideas, Planning, & Feedback")|
+| :---: | :---: |
+
+
